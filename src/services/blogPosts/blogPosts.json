@@ -1,0 +1,18 @@
+[
+  {
+    "category": "ARTICLE CATEGORY",
+    "title": "ARTICLE TITLE",
+    "cover": "https://striveschool.ghost.io/content/images/2020/12/tobia_mymoji.jpg",
+    "readTime": {
+      "value": 2,
+      "unit": "minute"
+    },
+    "author": {
+      "name": "Chetan Bhagat",
+      "avatar": "eefegfg"
+    },
+    "content": "HTML",
+    "createdAt": "2022-01-26T16:12:31.882Z",
+    "id": "5cup9mckyvqx79n"
+  }
+]

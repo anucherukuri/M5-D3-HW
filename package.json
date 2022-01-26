@@ -1,7 +1,7 @@
 {
-  "name": "m5-d2-hw",
+  "name": "m5-d3-hw",
   "version": "1.0.0",
-  "description": "Module-5 Day-2 Homework",
+  "description": "Module-5 Day-3 Homework",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,17 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anucherukuri/M5-D2-HW.git"
+    "url": "git+https://github.com/anucherukuri/M5-D3-HW.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anucherukuri/M5-D2-HW/issues"
+    "url": "https://github.com/anucherukuri/M5-D3-HW/issues"
   },
-  "homepage": "https://github.com/anucherukuri/M5-D2-HW#readme",
+  "homepage": "https://github.com/anucherukuri/M5-D3-HW#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "http-errors": "^2.0.0",
     "uniqid": "^5.4.0"
   },
   "devDependencies": {
