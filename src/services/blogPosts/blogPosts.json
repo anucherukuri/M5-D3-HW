@@ -1,18 +1,1 @@
-[
-  {
-    "category": "ARTICLE CATEGORY",
-    "title": "ARTICLE TITLE",
-    "cover": "https://striveschool.ghost.io/content/images/2020/12/tobia_mymoji.jpg",
-    "readTime": {
-      "value": 2,
-      "unit": "minute"
-    },
-    "author": {
-      "name": "Chetan Bhagat",
-      "avatar": "eefegfg"
-    },
-    "content": "HTML",
-    "createdAt": "2022-01-26T16:12:31.882Z",
-    "id": "5cup9mckyvqx79n"
-  }
-]
+[{"category":"Philosophy","title":"The English Teacher","cover":"https://striveschool.ghost.io/content/images/2020/12/tobia_mymoji.jpg","readTime":{"value":2,"unit":"minute"},"author":{"name":"RK Narayana","avatar":"eefegfg"},"content":"HTML","createdAt":"2022-01-26T16:50:15.089Z","id":"5cupcygkyvs9pki"},{"category":"Philosophy","title":"Untouchable","cover":"https://striveschool.ghost.io/content/images/2020/12/tobia_mymoji.jpg","readTime":{"value":2,"unit":"minute"},"author":{"name":"Mulk Raj Anand","avatar":"eefegfg"},"content":"HTML","createdAt":"2022-01-26T16:51:00.313Z","id":"5cupcygkyvsaogp"},{"category":"Philosophy","title":"White Tiger","cover":"https://striveschool.ghost.io/content/images/2020/12/tobia_mymoji.jpg","readTime":{"value":2,"unit":"minute"},"author":{"name":"Aravind Adiga","avatar":"eefegfg"},"content":"HTML","createdAt":"2022-01-26T16:53:30.665Z","id":"5cupcygkyvsdwh5"},{"category":"Philosophy","title":"The God of Small Things","cover":"https://striveschool.ghost.io/content/images/2020/12/tobia_mymoji.jpg","readTime":{"value":2,"unit":"minute"},"author":{"name":"Abcde","avatar":"abcdefgh"},"content":"HTML","createdAt":"2022-01-26T16:56:19.623Z","id":"5cupcygkyvshiug","updatedAt":"2022-01-26T17:03:06.569Z"}]
